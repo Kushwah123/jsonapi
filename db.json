@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "rinku",
+      "username": "rinku kushwah",
+      "email": "rinku@gmail.com",
+      "phone": "1234455877",
+      "website": "absnmabn",
+      "id": 5
+    },
+    {
+      "name": "ayush",
+      "username": "ayush kushwah",
+      "email": "akW@gmail.com",
+      "phone": "78991236599",
+      "website": "avh",
+      "id": 6
+    },
+    {
+      "name": "Dharmendra",
+      "username": "kumar",
+      "email": "dharmendrakumar1208@gmail.com",
+      "phone": "8909861356",
+      "website": "bsahj",
+      "id": 7
+    },
+    {
+      "name": "Arti",
+      "username": "kushwah",
+      "email": "arti@gmail.com",
+      "phone": "9045657301",
+      "website": "hsdahsda",
+      "id": 8
+    },
+    {
+      "name": "kushwah",
+      "username": "kushwah",
+      "email": "rk@ddjdj",
+      "phone": "",
+      "website": "",
+      "id": 10
+    },
+    {
+      "name": "Sumit",
+      "username": "sumit123",
+      "email": "sumit@123gmail.com",
+      "phone": "1233456788",
+      "website": "abc",
+      "id": 11
+    }
+  ]
+}
